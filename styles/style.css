@@ -1,0 +1,18 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+  
+}
+
+body {
+    text-align: center;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: beige;
+    border: 1px solid black;
+    display: inline-block;
+
+}
